@@ -1,0 +1,4 @@
+bot:
+  name: SpringNewBot
+  token: 5107473552:AAHTYdxgmUQ8Gl6tezWjoY-WjuE8lZIXMas
+server.port: 8000
